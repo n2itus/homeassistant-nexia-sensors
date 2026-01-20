@@ -339,7 +339,7 @@ For issues:
 
 ## Credits
 
-Created to fill the gap in Home Assistant's Nexia integration Room IQ sensor support and ensure fresh sensor data.
+Created to fill the gap in Home Assistant's Nexia integration Room IQ sensor support and ensure fresh sensor data. This was vibe coded using a little Grok but mostly Claude.AI.
 
 ## License
 
